@@ -1,13 +1,5 @@
-import os
-import numpy as np
-import time
-import random
-
 import pygame
 
-import sys
-
-from config import cfg_item
 # Dimensiones del spritesheet 640x256 (anchoxalto)
  
 class SpriteSheet:

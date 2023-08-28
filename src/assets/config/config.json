@@ -1,0 +1,22 @@
+{
+    "game" : {
+        "screen_size" : [640,480],
+        "title" : "Walking Animation",
+        "background_color" : [0,0,0]
+    },
+    "scroll" : {
+        "image" : 20,
+        "speed" : 0.1
+
+    },
+    "timing" : {
+        "fps" : 60,
+        "time_per_frame" : 16
+    },
+    "image" : {
+        "file" : ["assets", "images", "Walking_animation.png"],
+        "total_rects": 20,
+        "rects_size": [129,64],
+        "rects_per_line" : 10
+    }
+}
